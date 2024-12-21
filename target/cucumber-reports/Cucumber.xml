@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="37.905">
+    <testcase classname="Customer Registration" name="To verify Customer Registration with Email" time="37.479">
+        <system-out><![CDATA[Given user is on marketplace................................................passed
+When user click on email....................................................passed
+And user enter firstname....................................................passed
+And user enter lastname.....................................................passed
+And user enter number.......................................................passed
+And user enter emailid......................................................passed
+And user enter password.....................................................passed
+And user enter confirmpassword..............................................passed
+And user click create Account...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
